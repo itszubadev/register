@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "itszubadev"
+  },
+  "records": {
+    "CNAME": {
+      "www": "zubariel.netlify.app"
+    }
+  }
+}
