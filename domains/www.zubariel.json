@@ -3,6 +3,9 @@
     "username": "itszubadev"
   },
   "records": {
-    "CNAME": "zubariel.netlify.app"
+    "CNAME": "zubariel.vercel.app",
+    "TXT": {
+      "_vercel": "vc-domain-verify=www.zubariel.is-a.dev,NEW_UNIQUE_TOKEN_HERE"
+    }
   }
 }
